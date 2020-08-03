@@ -11,7 +11,7 @@ I built a program to create a publication quality cross-section that shows depth
 ### Overview
 ![2020-08-03-135151_1024x768_scrot](https://user-images.githubusercontent.com/44382721/89211936-992b9a80-d590-11ea-8b40-d7340f18b6f5.png)
 
-
+The created figure displays that the subducting plate occurs down to a depth of 200km. This allows us to see that more seismicity occurs above than below the subducting plate. We believe that this is because the overriding plate is colder, more brittle, and under more stress than the material beneath the subducting plate.
 ### Tech Stack
 
 The tech stack I used included:
